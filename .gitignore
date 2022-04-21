@@ -8,3 +8,7 @@ tictactoe.pdb
 .vs/learning/v17/Browse.VC.opendb
 .vs/learning/v17/ipch/AutoPCH/c8d6cfe2e5251328/TICTACTOE.ipch
 .vs/learning/v17/ipch/AutoPCH/f1aab2e346ff5ab6/TICTACTOE.ipch
+tictactoe.ilk
+.vs/VSWorkspaceState.json
+.vscode/launch.json
+.vscode/tasks.json
