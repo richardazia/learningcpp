@@ -17,3 +17,7 @@ bank.pdb
 .vs/learning/v17/TestStore/0/000.testlog
 .vs/learning/v17/TestStore/0/testlog.manifest
 .vscode/settings.json
+NewFile
+.vs/CMakeWorkspaceSettings.json
+.vs/learning/v17/ipch/AutoPCH/c428c101c40d5d80/LINKEDINLEARNINGCPPCOURSES.ipch
+.vs/learning/v17/ipch/AutoPCH/fcdd5f509bdf5bf/BANK.ipch
